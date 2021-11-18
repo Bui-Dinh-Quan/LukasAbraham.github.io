@@ -1,84 +1,105 @@
-<h1><p align="center">🌎 WELCOME TO MY PROFILE 🌏 <h1/>
-  <br />
+<html>
+<div style="background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-trianglify-b79c7e1f.jpg');">
+<head>
+
+<h1><p align="center">🌎 WELCOME TO MY PROFILE 🌏 </h1>
   <br />
 <img align="middle" alt="Profile gif" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif" />
   
-<h3>👋 Hi there, I'm Thành _ aka Lukas 👋 <h3/>
+<h3>👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
 
-<h3> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 <h3 />  
+<h3> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
 <br />
 <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 
-<h3> 🔥 My Info: <h3 />
+<head />
 
-- 👦🏻 Full name: Trần Xuân Thành
-- 📆 Date of birth: 29/10/2003
-- 🚪 Living in HoChiMinh City
-- 👨🏻‍🎓 Freshman
-- 📝 Faculty of Computer Science <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
+<body>
+<p>
+<h3> 🔥 My Info: </h3>
 
-- 🏫 University of Information Technology - VNU HCM
-- 💼 Want to be a great Programmer in the future
-
-
-<h3> 🔥 More about me <h3 />
-- 👨🏽‍💻 Currently on track with C++, Python 💻
-- 🏆 Sports Lover: watch UFC, NBA, All football leagues.
-- ⛹️‍♂️ Playing Basketball 🏀
-- ⚽️ Huge fan of Liverpool -- "YOU'LL NEVER WALK ALONE" 📯
-- 🎼 Love classical Music, 🎹 Favourite composer: Beethoven, Chopin
-- 🎬 A member of Cinephiles 🎥
-- 👯 I’m looking for groups to learn programming together
-- 🥅 2021 Goals: Learn new things and become a better version of myself
-
-
-<h3> 🔥 Education: <h3 />
+- 👦🏻 Full name: Trần Xuân Thành <br />
+- 📆 Date of birth: 29/10/2003	<br />
+- 🚪 Living in HoChiMinh City	<br />
+- 👨🏻‍🎓 Freshman	<br />
+- 📝 Faculty of Computer Science 
+<br />
+- 🏫 University of Information Technology - VNU HCM	<br />
+- 💼 Want to be a great Programmer in the future	<br />
+<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
+</p>
+<p>
+<h3> 🔥 More about me </h3>
+- 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
+- 🏆 Sports Lover: watch UFC, NBA, All football leagues.	<br />
+- ⛹️‍♂️ Playing Basketball 🏀	<br />
+- ⚽️ Huge fan of Liverpool -- "YOU'LL NEVER WALK ALONE" 📯	<br />
+- 🎼 Love classical Music, 🎹 Favourite composer: Beethoven, Chopin	<br />
+- 🎬 A member of Cinephiles 🎥	<br />
+- 👯 I’m looking for groups to learn programming together	<br />
+- 🥅 2021 Goals: Learn new things and become a better version of myself	<br />
+</p>
+<p>
+<h3> 🔥 Education: </h3>
 2018-2021: Trung Vuong High School
 <br />
 2021-Present: University of Information Technology
-
-
-
-<h3> 🔥 Learning Process: <h3 />
+<br />
+</P>
+<p>
+<h3> 🔥 Learning Process: </h3>
+  
+<h4> <b> <i> +) ⚙️Current: </b> </i> </h4>
 
 <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
-  
-<h4> _+) ⚙️Current:_ <h4 />
- C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  
- Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  
-
-<h4> _+) 🛠Upcoming:_ <h4 />  
- HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  
- Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  
- Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  
-
----
+ C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
+ 
+ Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
-<h3> 📺 Latest YouTube Videos <h3 />
-  
-  [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCIZpbA88vSyTWj1FEX0unaQ?style=social)](https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ)
+<h4> <b> <i> +) 🛠Upcoming: </b> </i> </h4>  
+ HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
+ Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
+ Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br />
+</p>
+<hr />
 
+
+<h3> 📺 Latest YouTube Videos </h3>
+-Subscribe to my channel
+   <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
+   <img  src="https://img.shields.io/youtube/channel/subscribers/UCIZpbA88vSyTWj1FEX0unaQ?style=social" >
+   </a>
+
+<br />
 <!-- YOUTUBE:START -->
-- 🔭 I just launched my first Youtube video: [My favourite Movies][movies]!
+- 🔭 I just launched my first Youtube video: 
+[My favourite Movies][movies]!
 - (To be continued)
 
 <!-- YOUTUBE:END -->
 
----
+<hr />
 
-![LukasAbraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukasAbraham&show_icons=true&theme=radical)
-<img align="right" alt="Profile gif" width="280px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
+<img src="https://github-readme-stats.vercel.app/api?username=LukasAbraham&show_icons=true&theme=radical">
+<img align="right" alt="Profile gif" width="260px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
 
----
+<hr />
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   
-###  📞 Connect with me ☎️:
-[<img align="left" alt="LukasAbraham | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br />
+<h3>  📞 Connect with me ☎️: </h3>
+<a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
+   <img  align="left" alt="LukasAbraham | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >
+   </a>
+
+<a href="https://www.facebook.com/profile.php?id=100026032879648">
+   <img  align="left" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >
+   </a>
+   
+<a href="https://twitter.com/ThnhTrn39643075">
+   <img  align="left" alt="LukasAbraham | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >
+   </a>
 <br />
 or
 <br />
@@ -87,11 +108,6 @@ via 📧 Email: thanhthcsab@gmail.com
   
 
   
-</details>
 
-
-[movies]: https://www.youtube.com/watch?v=NR9eAngt2YM&t=1s
-[facebook]: https://www.facebook.com/profile.php?id=100026032879648
-[youtube]: https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ
-[twitter]: https://twitter.com/ThnhTrn39643075
-
+<body />
+<html />
