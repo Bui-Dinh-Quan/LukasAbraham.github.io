@@ -4,7 +4,7 @@
 <font color="white">
 <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏 </h1> <p />
 
-<img align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif" />
+<img align="center" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif" />
 
 <hr />
   
@@ -12,7 +12,7 @@
 
 <h3> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
 <br />
-<img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 
 <head />
 
@@ -28,7 +28,7 @@
 <br />
 - 🏫 University of Information Technology - VNU HCM	<br />
 - 💼 Want to be a great Programmer in the future	<br />
-<img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
+<img align="right"  width="300px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
 <p/>
 <p>
 <h3> 🔥 More about me </h3>
@@ -55,7 +55,7 @@
 
 
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
- <img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
+ <img align="right"  width="300px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
@@ -64,6 +64,7 @@
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
  Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br />
 <p/>
+<br />
 <hr />
 
 
@@ -84,7 +85,7 @@
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=LukasAbraham&show_icons=true&theme=radical">
-<img align="right" alt="Profile gif" width="260px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
+<img align="right"  width="260px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
 
 <hr />
 
@@ -92,15 +93,15 @@
   
 <h3>  📞 Connect with me ☎️: </h3>
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
-   <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >
+   <img  align="middle"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >
    </a>
 
 <a href="https://www.facebook.com/profile.php?id=100026032879648">
-   <img  align="middle" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >
+   <img  align="middle"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >
    </a>
    
 <a href="https://twitter.com/ThnhTrn39643075">
-   <img  align="middle" alt="LukasAbraham | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >
+   <img  align="middle"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >
    </a>
 <br />
 or
