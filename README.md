@@ -54,7 +54,7 @@
 <p>
 <h3> 🔥 Learning Process: </h3>
   
-<h4> <b> <i> +) ⚙️Current: </b> </i> </h4>
+<h4> <b> <i> +) ⚙️Current: <b /> <i /> </h4>
 
 
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
@@ -62,7 +62,7 @@
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
-<h4> <b> <i> +) 🛠Upcoming: </b> </i> </h4>  
+<h4> <b> <i> +) 🛠Upcoming: <b /> <i /> </h4>  
  HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
  Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br />
