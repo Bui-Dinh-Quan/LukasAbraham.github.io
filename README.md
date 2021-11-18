@@ -38,7 +38,7 @@
 - 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
 - 🏆 Sports Lover: watch UFC, NBA, All football leagues.	<br />
 - ⛹️‍♂️ Playing Basketball 🏀	<br />
-- ⚽️ Huge fan of Liverpool -- "YOU'LL NEVER WALK ALONE" 📯	<br />
+- ⚽️ Huge fan of Liverpool _ "YOU'LL NEVER WALK ALONE" 📯	<br />
 - 🎼 Love classical Music, 🎹 Favourite composer: Beethoven, Chopin	<br />
 - 🎬 A member of Cinephiles 🎥	<br />
 - 👯 I’m looking for groups to learn programming together	<br />
@@ -62,15 +62,13 @@
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
-<h4> <b> <i> +) 🛠Upcoming: </b> </i> </h4>  
+  <h4> <b> <i> +) 🛠Upcoming:</i></b></h4> 
  HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
- Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br />
-</p>
+ Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br /></p>
+<br />
+<br />
 <hr />
-<br />
-<br />
-
 <h3> 📺 Latest YouTube Videos </h3>
 -Subscribe to my channel
    <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
@@ -95,7 +93,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   
-<h3>  📞 Connect with me ☎️: </h3>
+<h3> ☎️Connect with me📞: </h3>
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
    <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" >
