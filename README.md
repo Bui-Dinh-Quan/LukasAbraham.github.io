@@ -57,7 +57,7 @@
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/> <br />
  <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
- +) 🛠Upcoming:</i></b></h4>  <br />
+<h4> <b> <i> +) 🛠Upcoming:</i></b></h4>  <br />
  HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
  Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  </p>
