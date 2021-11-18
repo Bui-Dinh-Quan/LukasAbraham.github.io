@@ -1,10 +1,9 @@
 <html>
-<div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
 
 <head>
 
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
-<font color="white">
+<font color="black">
 <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> 
 <div style="text-align: center;">
 <img  align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif"/>
