@@ -1,6 +1,23 @@
 <html>
 <div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
 
+        #wrapper {
+            min-height: 100%; 
+        }
+    </style>
+    <!--[if lte IE 6]>
+    <style type="text/css">
+        #container {
+            height: 100%;
+        }
+    </style>
+    <![endif]-->
 <head>
 
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
