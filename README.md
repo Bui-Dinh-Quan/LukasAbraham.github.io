@@ -1,10 +1,12 @@
 <html>
-<div style="background-image: url('https://coolbackgrounds.io/images/backgrounds/white/white-trianglify-b79c7e1f.jpg');">
+<div style="background-image: url('https://cdn.wallpapersafari.com/52/35/rfgz2O.jpg');">
 <head>
+<font color="white">
+<h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏 </h1> <p />
 
-<h1><p align="center">🌎 WELCOME TO MY PROFILE 🌏 </h1>
-  <br />
-<img align="middle" alt="Profile gif" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif" />
+<img align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif" />
+
+<hr />
   
 <h3>👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
 
@@ -27,7 +29,7 @@
 - 🏫 University of Information Technology - VNU HCM	<br />
 - 💼 Want to be a great Programmer in the future	<br />
 <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
-</p>
+<p/>
 <p>
 <h3> 🔥 More about me </h3>
 - 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
@@ -38,22 +40,22 @@
 - 🎬 A member of Cinephiles 🎥	<br />
 - 👯 I’m looking for groups to learn programming together	<br />
 - 🥅 2021 Goals: Learn new things and become a better version of myself	<br />
-</p>
+<p/>
 <p>
 <h3> 🔥 Education: </h3>
 2018-2021: Trung Vuong High School
 <br />
 2021-Present: University of Information Technology
 <br />
-</P>
+<p/>
 <p>
 <h3> 🔥 Learning Process: </h3>
   
 <h4> <b> <i> +) ⚙️Current: </b> </i> </h4>
 
-<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
+
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
- 
+ <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
@@ -61,7 +63,7 @@
  HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
  Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  <br />
-</p>
+<p/>
 <hr />
 
 
@@ -90,15 +92,15 @@
   
 <h3>  📞 Connect with me ☎️: </h3>
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
-   <img  align="left" alt="LukasAbraham | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >
+   <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" >
    </a>
 
 <a href="https://www.facebook.com/profile.php?id=100026032879648">
-   <img  align="left" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >
+   <img  align="middle" alt="LukasAbraham | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" >
    </a>
    
 <a href="https://twitter.com/ThnhTrn39643075">
-   <img  align="left" alt="LukasAbraham | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >
+   <img  align="middle" alt="LukasAbraham | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" >
    </a>
 <br />
 or
