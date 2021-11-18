@@ -5,7 +5,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <font color="white">
-<h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏</h1> <p />
+<h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏</h1><p />
 <div style="text-align: center;">
 <img  align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif"/>
 </div>
@@ -54,7 +54,7 @@
 <p>
 <h3> 🔥 Learning Process: </h3>
   
-<h4> <b> <i> +) ⚙️Current: </b> </i> </h4>
+<h4> <b> <i> +) ⚙️Current:</b></i></h4>
 
 
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
@@ -77,7 +77,7 @@
 
 <br />
 <!-- YOUTUBE:START -->
-- 🔭 I just launched my first Youtube video:<a href="https://www.youtube.com/watch?v=NR9eAngt2YM&t=1s">My favourite Movies</a> 
+- 🔭 I just launched my first Youtube video:<a href="https://www.youtube.com/watch?v=NR9eAngt2YM&t=1s"> My favourite Movies</a> 
 
 <br />
 - (To be continued)
