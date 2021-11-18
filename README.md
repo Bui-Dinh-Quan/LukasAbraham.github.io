@@ -54,7 +54,7 @@
 <p>
 <h3> 🔥 Learning Process: </h3>
   
-<h4> <b> <i> +) ⚙️Current:
+<h4> <b> <i> +) ⚙️Current:<br /></i></b></h4> 
 
 
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/> 
