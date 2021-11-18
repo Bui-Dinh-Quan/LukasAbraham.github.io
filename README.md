@@ -12,7 +12,7 @@
 
 <h3> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
 <br />
-<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
+<img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 
 <head />
 
@@ -28,7 +28,7 @@
 <br />
 - 🏫 University of Information Technology - VNU HCM	<br />
 - 💼 Want to be a great Programmer in the future	<br />
-<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
+<img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
 <p/>
 <p>
 <h3> 🔥 More about me </h3>
@@ -55,7 +55,7 @@
 
 
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>  <br />
- <img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
+ <img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />  
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 
 
