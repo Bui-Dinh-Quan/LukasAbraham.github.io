@@ -52,15 +52,14 @@
 </p>
 <p>
 <h3> 🔥 Learning Process: </h3>
-<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />
 <h4> <b> <i> +) ⚙️Current: </i> </b> </h4> 
+<img align="right" alt="Profile gif" width="350px" src="https://user-images.githubusercontent.com/94582919/142391680-fbbe1382-9687-407d-aee9-7de0ce10cd7e.gif" />
  C++  <img src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/> <br />
  Python  <img src="https://img.icons8.com/color/26/000000/python--v1.png"/>  <br />
 <h4> <b> <i> +) 🛠Upcoming:</i></b></h4>  
  HTML  <img src="https://img.icons8.com/color/26/000000/html-5--v1.png"/>  <br />
  Javascript  <img src="https://img.icons8.com/ios/26/000000/javascript--v2.png"/>  <br />
  Java  <img src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png"/>  </p>
-<br />
 <br />
 <hr />
 <h3> 📺 Latest YouTube Videos </h3>
