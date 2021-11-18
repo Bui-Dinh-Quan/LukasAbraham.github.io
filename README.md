@@ -3,7 +3,7 @@
 
 <head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
 <font color="white">
 <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p />
 <div style="text-align: center;">
