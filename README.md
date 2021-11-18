@@ -1,28 +1,12 @@
 <html>
 <div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <style type="text/css">
-        html, body {
-            height: 100%;
-            margin: 0;
-        }
 
-        #wrapper {
-            min-height: 100%; 
-        }
-    </style>
-    <!--[if lte IE 6]>
-    <style type="text/css">
-        #container {
-            height: 100%;
-        }
-    </style>
-    <![endif]-->
 <head>
 
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
 <font color="white">
-<h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p />
+<title>
+    <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> </title>
 <div style="text-align: center;">
 <img  align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif"/>
 </div>
