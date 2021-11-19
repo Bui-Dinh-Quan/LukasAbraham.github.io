@@ -57,7 +57,8 @@
 <h4 style="color: green"> <b> <i> +) ⚙️Current: </i> </b> </h4> 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </p>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/> </p>
 <h4 style="color: green"> <b> <i> +) 🛠Upcoming:</i></b></h4>  
  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -89,6 +90,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
+   <br />
     <h3 style="color:#171782"><p align="middle"> ☎️Connect with me📞: <h3 /><p />
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
