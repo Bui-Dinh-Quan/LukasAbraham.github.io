@@ -11,9 +11,9 @@
     <br />
 <hr />
   
-<h3 style="color: #990000">👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
+<h3 style="color: #0f0f8a">👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
 
-<h3 style="color: #990000"> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
+<h3 style="color: #0f0f8a"> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
 <br />
 <img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 
@@ -32,7 +32,7 @@
 - 🏫 University of Information Technology - VNU HCM	<br />
 - 💼 Want to be a great Programmer in the future	<br />
 <img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142390926-92a232b7-e3ea-4f10-b281-f514763acb54.jpg" />
-</p>
+
 <p>
 <h3 style="color: #990000"> 🔥 MORE ABOUT ME </h3>
 - 👨🏽‍💻 Currently on track with C++, Python 💻	<br />
@@ -87,7 +87,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
-<h3><p align="middle"> ☎️Connect with me📞: </h3><p />
+<h3 style="color:#171782><p align="middle"> ☎️Connect with me📞: <p />
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
    <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" >
