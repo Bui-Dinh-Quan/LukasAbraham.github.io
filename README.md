@@ -11,9 +11,9 @@
     <br />
 <hr />
   
-<h3 style="color: #0f0f8a">👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
+<h3 style="color: #0f0f8a"><p align="middle">👋 Hi there, I'm Thành _ aka Lukas 👋 </h3>
 
-<h3 style="color: #0f0f8a"> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  
+<h3 style="color: #0f0f8a"> 🤘 I'm a Freshman, Coding Beginner, Cinephile, and Sports Lover!! 🤘 </h3>  <p />
 <br />
 <img align="right" alt="Profile gif" width="300px" src="https://user-images.githubusercontent.com/94582919/142376415-26d9dc0a-8ea6-43bd-8f65-25a1b362ca8a.gif" />
 
