@@ -1,7 +1,9 @@
 <html>
 <div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
 <head>
-<meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
+    <link rel="stylesheet" href="styles.css">
 <font color="white">
 <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> 
 <div style="text-align: center;">
