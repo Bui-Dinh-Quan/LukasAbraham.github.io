@@ -4,7 +4,7 @@
     <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
     <link rel="stylesheet" href="styles.css">
 <font color="black">
-<h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> 
+    <h1 style="color:#0f8a8a"><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> </h1>
 <div style="text-align: center;">
 <img  align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif"/>
 </div>
@@ -87,7 +87,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
-<h3 style="color:#171782><p align="middle"> ☎️Connect with me📞: <p />
+<h3 style="color:#171782"><p align="middle"> ☎️Connect with me📞: <p />
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
    <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" >
