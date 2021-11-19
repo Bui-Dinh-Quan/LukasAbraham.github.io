@@ -21,7 +21,7 @@
 <body>
 <p>
 <h3> 🔥 My Info: </h3>
-
+<b>
 - 👦🏻 Full name: Trần Xuân Thành <br />
 - 📆 Date of birth: 29/10/2003	<br />
 - 🚪 Living in HoChiMinh City	<br />
@@ -76,7 +76,7 @@
 - (To be continued)
 
 <!-- YOUTUBE:END -->
-
+    </b>
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=LukasAbraham&show_icons=true&theme=radical">
