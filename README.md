@@ -41,8 +41,7 @@
 - 🎼 Love classical Music, 🎹 Favourite composer: Beethoven, Chopin	<br />
 - 🎬 A member of Cinephiles 🎥	<br />
 - 👯 I’m looking for groups to learn programming together	<br />
-- 🥅 2021 Goals: Learn new things and become a better version of myself	<br />
-</p>
+- 🥅 2021 Goals: Learn new things and become a better version of myself	<br /></p>
     
 <p>
 <h3 style="color: orange"> 🔥 Education: </h3>
@@ -87,7 +86,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   
-<h3> ☎️Connect with me📞: </h3>
+<h3><p align="middle"> ☎️Connect with me📞: </h3><p />
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
    <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" >
