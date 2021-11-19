@@ -1,29 +1,6 @@
 <html>
 <div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
 <head>
-     <style type="text/css">
-        html {
-            overflow: auto;
-        }
-          
-        html,
-        body,
-        div,
-        iframe {
-            margin: 0px;
-            padding: 0px;
-            height: 100%;
-            border: none;
-        }
-          
-        iframe {
-            display: block;
-            width: 100%;
-            border: none;
-            overflow-y: auto;
-            overflow-x: hidden;
-        }
-    </style>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
 <font color="white">
 <h1><p align="middle">🌎 WELCOME TO MY PROFILE 🌏<p /> 
@@ -41,15 +18,6 @@
 <head />
 
 <body>
-     <iframe src="https://en.wikipedia.org/wiki/HTML_element#Frames"
-            frameborder="0" 
-            marginheight="0" 
-            marginwidth="0" 
-            width="100%" 
-            height="100%" 
-            scrolling="auto">
-  </iframe>
-  
 <p>
 <h3> 🔥 My Info: </h3>
 
