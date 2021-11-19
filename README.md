@@ -80,7 +80,7 @@
 - (To be continued)
 
 <!-- YOUTUBE:END -->
-    </b>
+   
 <hr />
     
 <img align="right" alt="Profile gif" width="200px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
