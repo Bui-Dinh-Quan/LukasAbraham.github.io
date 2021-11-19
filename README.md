@@ -4,7 +4,7 @@
     <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
     <link rel="stylesheet" href="styles.css">
 <font color="black">
-    <h1 style="color:#0f8a8a"><p align="middle">🌎 WELCOME TO MY PROFILE 🌏 </h1><p />
+    <h1 style="color:#0f8a8a"><p align="middle">🌎 WELCOME TO MY PROFILE 🌏 <h1 /><p />
 <div style="text-align: center;">
 <img  align="middle" width="200px" src="https://user-images.githubusercontent.com/94582919/142384353-bd9f0ef8-3a22-454c-a96d-43c42e90c9ae.gif"/>
 </div>
@@ -55,14 +55,14 @@
 <p>
 <h3 style="color: #990000"> 🔥 LEARNING PROCESS: </h3>
 <h4 style="color: green"> <b> <i> +) ⚙️Current: </i> </b> </h4> 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <br /> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <br />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  <br />
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </p>
 <h4 style="color: green"> <b> <i> +) 🛠Upcoming:</i></b></h4>  
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <br />
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <br />
- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  </p>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  <br />
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>  
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
 <br />
 <hr />
 <h3 style="color: #990000"> 📺 LATEST YOUTUBE VIDEO </h3>
@@ -89,7 +89,7 @@
 
 <img align="middle" alt="Profile gif" width="1000px" src="https://user-images.githubusercontent.com/94582919/142397841-42f9d143-f630-440f-930f-861b59462b9d.gif" />   
   <br />
-    <h3 style="color:#171782"><p align="middle"> ☎️Connect with me📞: </h3><p />
+    <h3 style="color:#171782"><p align="middle"> ☎️Connect with me📞: <h3 /><p />
 <div style="text-align: center;">
 <a href="https://www.youtube.com/channel/UCIZpbA88vSyTWj1FEX0unaQ">
    <img  align="middle" alt="LukasAbraham | YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" >
