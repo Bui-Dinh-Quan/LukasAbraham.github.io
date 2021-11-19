@@ -1,5 +1,5 @@
 <html>
-<div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
+<div style="background-image: url('https://www.teahub.io/photos/full/44-440596_1920x1080-wallpaper-line-slanting-dark-background-black-point.jpg');">
 <head>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
     <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
