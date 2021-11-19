@@ -1,5 +1,4 @@
 <html>
-<div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
 <head>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
     <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
@@ -81,7 +80,7 @@
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=LukasAbraham&show_icons=true&theme=radical">
-<img align="right" alt="Profile gif" width="260px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
+<img align="right" alt="Profile gif" width="200px" src="https://user-images.githubusercontent.com/94582919/142384547-156a8104-7e50-4711-ab0c-aae925badebb.gif" />
 
 <hr />
 
