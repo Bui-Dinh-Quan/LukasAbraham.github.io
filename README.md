@@ -1,6 +1,7 @@
 <html>
 <div style="background-image: url('https://coolwallpapers.me/picsup/5688007-dark-grey-wallpapers.jpg');">
 <head>
+    <div class="fullscreen-bg">
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
     <link rel="manifest" href="/manifest.json"><!-- Note manifest is in the header -->
     <link rel="stylesheet" href="styles.css">
@@ -106,6 +107,17 @@ or
 via 📧 Email: thanhthcsab@gmail.com
 <br />
 </div>
+    </div>
+    .fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+    
 
 <body />
 <html />
